@@ -1,0 +1,39 @@
+/* Efeitos Globais */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+header {
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    background-color: #604829;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.logo-topo img {
+    width: 75px;
+
+}
+
+.links-topo {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.links-topo a {
+    margin: 0 10px;
+    font-family: "Oswald", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    text-shadow: 3px 5px 2px #000000;
+    color: #c4a47c;
+    letter-spacing: 2px;
+}
