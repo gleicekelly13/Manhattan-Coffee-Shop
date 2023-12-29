@@ -6,6 +6,19 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+/* position: relative, porque serão posicionado elementos filhso dentros desses containers*/
+.container-parallax1,
+.container-parallax2,
+.container-parallax3,
+.container-parallax4,
+.container-parallax5 {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/* Topo da página*/
 
 header {
     width: 100%;
@@ -36,4 +49,23 @@ header {
     text-shadow: 3px 5px 2px #000000;
     color: #c4a47c;
     letter-spacing: 2px;
+}
+
+/* Seção Banner */
+
+.container-parallax1 {
+    background-image: url("/assets/parallax-imagem1.png");
+    height: 100vh;
+}
+
+.container-parallax1 h1 {
+    position: absolute;
+    color: #fff;
+    z-index: 1;
+    width: 100%;
+    top: 45%;
+    text-align: center;
+    font-family: "Fraunces", serif;
+    font-size: 100px;
+    font-weight: 400;
 }
