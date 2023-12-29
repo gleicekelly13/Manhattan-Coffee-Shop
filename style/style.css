@@ -124,3 +124,42 @@ header {
     background-image: url("/assets/parallax-imagem3.jpg");
     height: 50vh;
 }
+
+/* Seção Contatos */
+
+.container-parallax4 {
+    background-image: url("/assets/parallax-imagem4.png");
+    height: 100vh;
+}
+
+#contatos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#contatos div h2 {
+    background-color: #604829;
+    width: 500px;
+    padding: 10px;
+    font-family: "Oswald", sans-serif;
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+.container-contatos {
+    width: 500px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #604829;
+    color: #fff;
+    text-shadow: 0px 6px 8px #000000;
+    font-family: "Oswald", sans-serif;
+    font-size: 16px;
+    line-height: 36px;
+}
