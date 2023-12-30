@@ -171,3 +171,50 @@ header {
     height: 85vh;
 }
 
+#horarios {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#horarios h2 {
+    color: #fff;
+    font-family: "Oswald", sans-serif;
+    font-size: 20px;
+    letter-spacing: 8px;
+    margin-top: 20px;
+}
+
+.lista-horarios {
+    width: 768px;
+    color: #fff;
+    font-family: "Oswald", sans-serif;
+    font-size: 18px;
+    list-style: none;
+}
+
+.lista-horarios li {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    
+}
+
+.lista-horarios li div {
+    width: 70%;
+    height: 1px;
+    background-color: #acacac;
+    position: absolute;
+    left: 13%;
+}
+
+.texto-marrom {
+    color: #c4a47c;
+}
+
+.lista-horarios p {
+    color: #acacac;
+}
