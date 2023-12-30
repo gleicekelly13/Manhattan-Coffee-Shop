@@ -163,3 +163,11 @@ header {
     font-size: 16px;
     line-height: 36px;
 }
+
+/* Seção Horários */
+
+.container-parallax5 {
+    background-image: url("/assets/cafeteria.jpg");
+    height: 85vh;
+}
+
