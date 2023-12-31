@@ -218,3 +218,24 @@ header {
 .lista-horarios p {
     color: #acacac;
 }
+
+.container-rodape {
+    position: relative;
+    padding: 20px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 34px;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    background-color: #000000;
+    color: #fff;
+}
+
+.container-rodape span {
+    color: #c4a47c;
+}
+
