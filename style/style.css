@@ -6,7 +6,7 @@
     box-sizing: border-box;
     text-decoration: none;
 }
-/* position: relative, porque serão posicionado elementos filhso dentros desses containers*/
+/* position: relative, porque serão posicionado elementos filhos dentros desses containers*/
 .container-parallax1,
 .container-parallax2,
 .container-parallax3,
@@ -168,7 +168,7 @@ header {
 
 .container-parallax5 {
     background-image: url("/assets/cafeteria.jpg");
-    height: 85vh;
+    height: 100vh;
 }
 
 #horarios {
@@ -181,17 +181,20 @@ header {
 #horarios h2 {
     color: #fff;
     font-family: "Oswald", sans-serif;
-    font-size: 20px;
+    font-size: 24px;
     letter-spacing: 8px;
-    margin-top: 20px;
 }
 
 .lista-horarios {
     width: 768px;
     color: #fff;
     font-family: "Oswald", sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     list-style: none;
+}
+
+.lista-horarios h3 {
+    text-transform: uppercase;
 }
 
 .lista-horarios li {
@@ -251,4 +254,19 @@ header {
     background-repeat: no-repeat;
     background-color: #c4a47c;
     border-radius: 4px;
+}
+
+@media screen and (max-width: 1024px ){
+    .container-parallax1 h1 {
+        font-size: 70px;
+    }
+
+    .container-texto p {
+        padding: 0 40px;
+    }
+
+    #contatos div h2 {
+        padding: 7px;
+        font-size: 20px;
+    }
 }
