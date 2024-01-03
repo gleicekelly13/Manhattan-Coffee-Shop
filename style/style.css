@@ -15,6 +15,7 @@
     position: relative;
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
@@ -314,6 +315,63 @@ header {
     }
 
     .container-parallax1 {
-        height: 100vh;
+        width: 33.5rem;
+    }
+
+    .container-parallax1 h1 {
+        top: 59%;
+        font-size: 35px;
+    }
+
+    .container-parallax2 {
+        width: 33.5rem;
+    }
+
+    .container-parallax3 {
+        width: 33.5rem;
+    }
+
+    .container-parallax4 {
+        width: 33.5rem;
+    }
+
+    .container-parallax5 {
+        width: 33.5rem;
+    }
+
+    .container-texto {
+        width: 33.5rem;
+        
+    }
+
+    iframe {
+        width: 400px;
+        height: 250px;
+    }
+
+    .lista-horarios h2 {
+        font-size: 20px;
+    }
+
+    .lista-horarios {
+        width: 350px;
+        
+    }
+
+    .lista-horarios li div {
+        width: 45%;
+        left: 25%;
+    }
+
+    .container-rodape {
+        width: 33.5rem;
+        font-size: 14px;
+    }
+
+    .container-rodape a {
+        width: 40px;
+        height: 40px;
+        right: 40px;
+        bottom: 90px;
     }
 }
