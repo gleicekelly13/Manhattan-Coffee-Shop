@@ -375,3 +375,9 @@ header {
         bottom: 90px;
     }
 }
+
+@media screen and (max-width: 375px) {
+    .container-parallax1 h1 {
+        top: 67%;
+    }
+}
