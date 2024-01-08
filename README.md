@@ -5,3 +5,7 @@
 
 ## :desktop_computer: Desktop design
 <br>
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/Manhattan-Coffee-Shop/assets/80974593/b0aebb9b-b814-4af1-a3c7-ddea754bcdda" width = "500" />
+</div>
+<br>
