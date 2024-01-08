@@ -191,7 +191,7 @@ header {
     width: 768px;
     color: #fff;
     font-family: "Oswald", sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     list-style: none;
 }
 
@@ -355,7 +355,7 @@ header {
 
     .lista-horarios {
         width: 350px;
-        
+        font-size: 16px;
     }
 
     .lista-horarios li div {
@@ -380,4 +380,5 @@ header {
     .container-parallax1 h1 {
         top: 67%;
     }
+
 }
