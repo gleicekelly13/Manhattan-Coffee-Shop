@@ -15,3 +15,7 @@
 <div align = "center">
 <img src = "https://github.com/gleicekelly13/Manhattan-Coffee-Shop/assets/80974593/cb51a519-3658-436f-a323-c6d63020da10" width = "300" />
 </div>
+<br>
+
+<h2 align="center">:hourglass: Status do projeto </h2>
+
