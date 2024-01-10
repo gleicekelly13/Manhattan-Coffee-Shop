@@ -25,4 +25,6 @@
 <h2 align="center">:hammer: Funcionalidades do projeto </h2>
 <ul>
   <li>O topo da página está sempre visível, mesmo que o usuário role o scroll para o fim da página, o topo continua visível; </li>
+  <li>A página proporciona interação entre as seções, a navegação está associada aos links no topo e no rodapé da página, 
+    ou seja, ao clicar nos links o usuário será direcionado para a seção específica referente ao link clicado;</li>
 </ul>
