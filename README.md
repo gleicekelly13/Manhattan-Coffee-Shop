@@ -22,3 +22,4 @@
 <h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
 <br>
 
+<h2 align="center">:hammer: Funcionalidades do projeto </h2>
