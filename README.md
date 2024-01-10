@@ -28,4 +28,7 @@
   <li>A página proporciona interação entre as seções, a navegação está associada aos links no topo e no rodapé da página, 
     ou seja, ao clicar nos links o usuário será direcionado para a seção específica referente ao link clicado; </li>
   <li>A página contém uma página externa - página do Google Maps que possibilita - que o usuário visualize o endereço da loja física da cafeteria; </li>
+  <li>Todas as imagens de fundo das seções receberam o efeito Parallax, que cria uma ilusão de profundidade nas imagens de fundo da página. 
+      Quando o usuário move a página, tem a impressão de que as imagens estão em uma dimensão diferente dos outros elementos do site.</li>
 </ul>
+<br>
