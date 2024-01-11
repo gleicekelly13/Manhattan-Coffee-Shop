@@ -34,5 +34,7 @@
 <br>
 
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
-
+<ul>
+  <li>Manter o topo fixo na parte superior da página; </li>
+</ul>
 
