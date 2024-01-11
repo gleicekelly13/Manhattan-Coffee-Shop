@@ -32,3 +32,7 @@
       Quando o usuário move a página, tem a impressão de que as imagens estão em uma dimensão diferente dos outros elementos do site.</li>
 </ul>
 <br>
+
+<h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+
+
