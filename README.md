@@ -36,5 +36,6 @@
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
 <ul>
   <li>Manter o topo fixo na parte superior da página; </li>
+  <li>Criação dos links de navegação na própria página do site; </li>
 </ul>
 
