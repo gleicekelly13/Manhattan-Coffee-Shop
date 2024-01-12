@@ -41,5 +41,6 @@
   <li>Aplicação do efeito parallax nas imagens de fundo da página; </li>
   <li>Inserir uma página externa ao website do projeto; </li>
   <li>Implementar uma lista na página; </li>
+  <li>Posicionar o link do rodapé de forma ele fique "flutuando;</li>
 </ul>
 
