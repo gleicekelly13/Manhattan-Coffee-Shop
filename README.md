@@ -40,5 +40,6 @@
   <li>Criação dos links de navegação na própria página do site; </li>
   <li>Aplicação do efeito parallax nas imagens de fundo da página; </li>
   <li>Inserir uma página externa ao website do projeto; </li>
+  <li>Implementar uma lista na página; </li>
 </ul>
 
