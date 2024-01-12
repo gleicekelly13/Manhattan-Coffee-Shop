@@ -41,6 +41,8 @@
   <li>Aplicação do efeito parallax nas imagens de fundo da página; </li>
   <li>Inserir uma página externa ao website do projeto; </li>
   <li>Implementar uma lista na página; </li>
-  <li>Posicionar o link do rodapé de forma ele fique "flutuando;</li>
+  <li>Posicionar o link do rodapé de forma ele fique "flutuando; </li>
+  <li>Aplicação dos conceitos de posicionar elementos utilizando as propriedades CSS: background, position, top, right, bottom, left; </li>
+  <li>Reaproveitamento das classes CSS para melhorar a organização do código.</li>
 </ul>
-
+<br>
