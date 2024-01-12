@@ -46,3 +46,7 @@
   <li>Reaproveitamento das classes CSS para melhorar a organização do código.</li>
 </ul>
 <br>
+
+<h2 align="center"> :computer: Tecnologias utilizadas </h2>
+<p>HTML5</p>
+<p>CSS3</p>
