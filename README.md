@@ -57,3 +57,5 @@
 <br>
 
 # :sunglasses: Desenvolvedora
+
+- GitHub - [GleiceKelly](https://github.com/gleicekelly13)
