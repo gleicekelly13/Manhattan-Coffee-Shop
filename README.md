@@ -1,6 +1,6 @@
 <h1 align = "center">Manhattan - Coffee House</h1>
 <h2 align = "center">:page_facing_up: Descrição do projeto</h2>
-<p>Projeto proposto pela plataforma DevMedia, um website de uma cafeteria utilizando as tecnologias HTML5 e CSS3.</p>
+<p>Projeto proposto pela plataforma DevMedia, website de uma cafeteria utilizando as tecnologias HTML5 e CSS3.</p>
 <br>
 
 ## :desktop_computer: Desktop design
@@ -43,7 +43,8 @@
   <li>Implementar uma lista na página; </li>
   <li>Posicionar o link do rodapé de forma ele fique "flutuando; </li>
   <li>Aplicação dos conceitos de posicionar elementos utilizando as propriedades CSS: background, position, top, right, bottom, left; </li>
-  <li>Reaproveitamento das classes CSS para melhorar a organização do código.</li>
+  <li>Reaproveitamento das classes CSS para melhorar a organização do código;</li>
+  <li>Continuar aprimorando os conceitos de responsividade.</li>
 </ul>
 <br>
 
